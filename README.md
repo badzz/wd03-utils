@@ -1,5 +1,6 @@
 # wd03-utils
 Tools for the Ravpower wd03
+Support of wd03 in openwrt : https://openwrt.org/toh/ravpower/ravpower_rp-wd03
 
 Mainly this is a tool to find the battery level and charging/not charging status of the Ravpower WD03
 
